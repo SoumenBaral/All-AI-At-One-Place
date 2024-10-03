@@ -1,15 +1,13 @@
-# All AI At One Place
+# All AI At One Place [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 AI is leading The World . You can do more then you can Imagine by the help of AI
 
-# Awesome AI Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 
 > A curated list of Artificial Intelligence Top Tools
 >
-> Feel free to contribute and also submit your AI tools on [altern.ai](https://altern.ai/?utm_source=awesomeaitools) for free
+> [Find ai](https://altern.ai/?utm_source=awesomeaitools) 
 
-Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
-
-We publish regular updates of this repo in the [Altern Newsletter](http://newsletter.altern.ai). [Subscribe](http://newsletter.altern.ai) for the latest AI news and discover the best AI tools.
+Welcome to Awesome All AI At One Place  AI Tools! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
 
 ## Contents
 
