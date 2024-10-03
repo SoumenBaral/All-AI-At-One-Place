@@ -1,4 +1,4 @@
-# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.prod.website-files.com/61845f7929f5aa517ebab941/6440f9477c2a321f0dd6ab61_How%20Artificial%20Intelligence%20(AI)%20Is%20Used%20In%20Biometrics.jpg" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://www.dreamstime.com/golden-artificial-intelligence-logo-vector-icon-illustration-black-background-gold-shine-effect-image324434035" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <div align="center">
