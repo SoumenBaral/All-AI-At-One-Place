@@ -1,4 +1,4 @@
-# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://www.dreamstime.com/golden-artificial-intelligence-logo-vector-icon-illustration-black-background-gold-shine-effect-image324434035" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <div align="center">
