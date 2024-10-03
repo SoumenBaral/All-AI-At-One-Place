@@ -38,18 +38,6 @@
     <a href="LICENSE">License</a> •
     <a href="https://thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
-
----
-
-Translations:
-- español: [README.es.md](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
-- Français: [README.fr.md](https://github.com/ai-collection/ai-collection/blob/main/README.fr.md)
-- Русский: [README.ru.md](https://github.com/ai-collection/ai-collection/blob/main/README.ru.md)
-- Hindi: [README.hi.md](https://github.com/ai-collection/ai-collection/blob/main/README.hi.md)
-- 简体中文: [README.zh-CN.md](https://github.com/ai-collection/ai-collection/blob/main/README.zh-CN.md)
-
----
-
 <div align="center">
     <h5>Top Picks</h5>
 </div>
