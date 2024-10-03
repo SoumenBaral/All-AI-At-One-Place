@@ -15,7 +15,7 @@ A curated list of AI tools for Video processing, generation, editing, and enhanc
 
 ## Video Generation
 
-- **[DALL·E](https://openai.com/dall-e/)** - Generates realistic Videos from text descriptions using deep learning models.
+- **[Jubitrr AI ](https://jupitrr.com/)** - Genarate audio to video.
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool for creating and blending artworks, portraits, and landscapes through generative adversarial networks.
 - **[Runway ML](https://runwayml.com/)** - A creative toolkit that enables artists to generate Videos, videos, and models using AI.
 
