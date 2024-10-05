@@ -1,6 +1,6 @@
 # Video :
 
-  1.[HailuoAi](https://hailuoai.video/) This is wow
+  1.[HailuoAi](https://hailuoai.video/)
   
 # Aideo:
 
