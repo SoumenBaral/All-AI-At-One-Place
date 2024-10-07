@@ -1,6 +1,7 @@
 # Video :
 
-  1.[HailuoAi](https://hailuoai.video/)
+  1.[Hailuo Ai](https://hailuoai.video/)
+  2.[Haiper Ai](https://haiper.ai/creations)
   
 # Aideo:
 
